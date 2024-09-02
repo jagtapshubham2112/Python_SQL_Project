@@ -62,3 +62,8 @@ The dataset consists of several interconnected tables:
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/ecommerce-data-analysis.git
+
+2. Download the Datasetes to your local machine:
+   ```bash
+   git clone https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
+
